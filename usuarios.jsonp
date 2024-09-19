@@ -1,0 +1,87 @@
+misDatos([
+    {
+        "id":1,
+        "nombre":"Vanesa Soto",
+        "username":"Vane",
+        "correo":"vanesaso@gmail.com",
+        "direccion":{
+            "calle":"Benito Juarez",
+            "colonia":"Centro",
+            "municipio":"Queretaro",
+            "cp":76000,
+        },
+        "telefono":"123-122-1234",
+        "empresa":{
+            "nombreE":"Bimbo",
+            "ubicacion":"SJR"
+        }
+    },
+    {
+        "id":2,
+        "nombre":"Javier Villazana",
+        "username":"Javi",
+        "correo":"javierv@gmail.com",
+        "direccion":{
+            "calle":"Citlaltepetl",
+            "colonia":"CD Azteca",
+            "municipio":"Ecatepc de Morelos",
+            "cp":55120,
+        },
+        "telefono":"555-776-7570",
+        "empresa":{
+            "nombreE":"OHL",
+            "ubicacion":"Miguel Hidalgo"
+        }
+    },
+    {
+        "id":3,
+        "nombre":"Erika Jimenez",
+        "username":"Eri",
+        "correo":"erij@gmail.com",
+        "direccion":{
+            "calle":"El marques",
+            "colonia":"Parque industrial EL marques",
+            "municipio":"El marques",
+            "cp":76248,
+        },
+        "telefono":"123-121-1235",
+        "empresa":{
+            "nombreE":"Microplane Mexicana",
+            "ubicacion":"El marques"
+        }
+    },
+    {
+        "id":4,
+        "nombre": "Manuel Mondragon",
+        "username":"Manolom",
+        "correo":"manolon@gmail.com",
+        "direccion":{
+            "calle":"Granizo",
+            "colonia":"Satelite",
+            "municipio":"Queretaro",
+            "cp":76250,
+        },
+        "telefono":"123-123-1235",
+        "empresa":{
+            "nombreE":"BMV",
+            "ubicacion":"Cuauhtemoc"
+        }
+    },
+    {
+        "id":5,
+        "nombre":"Elena Hernandez",
+        "username":"elena",
+        "correo":"elenahdz@gmail.com",
+        "direccion":{
+            "calle":"Corregidora",
+            "colonia":"Centro",
+            "municipio":"Queretaro",
+            "cp":76000,
+        },
+        "telefono":"123-127-1240",
+        "empresa":{
+            "nombreE":"AIQ",
+            "ubicacion":"Colon"
+        }
+    }    
+        ])
