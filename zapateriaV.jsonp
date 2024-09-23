@@ -1,0 +1,32 @@
+misDatos([
+    {
+        "folio":1,
+        "descripcion":"Botas",
+        "talla":23.5,
+        "precio":1000,        
+    },
+    {
+        "folio":2,
+        "descripcion":"zapatos",
+        "talla":28,
+        "precio":900,        
+    },
+    {
+        "folio":3,
+        "descripcion":"tenis",
+        "talla":24.5,
+        "precio":1200,        
+    },
+    {
+        "folio":4,
+        "descripcion":"sandalias",
+        "talla":23.5,
+        "precio":1000,        
+    },
+    {
+        "folio":5,
+        "descripcion":"zapato dama",
+        "talla":23.5,
+        "precio":1000,        
+    }    
+        ])
